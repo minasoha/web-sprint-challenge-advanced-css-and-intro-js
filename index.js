@@ -319,7 +319,6 @@ function lotsOfArt(array) {
     if (array[i].paintings > 100){
        howMany.push(array[i].name);
     }
-    
   }
   return howMany;
 }
